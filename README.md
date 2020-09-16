@@ -1,2 +1,2 @@
 # parkChoiceSetPredictions
-scraping and compiling data set on US recreation sites, then generating choice sets for recreation decisions
+Web scraping and compiling data set on US recreation sites, then generating plausible choice sets for recreation decisions
